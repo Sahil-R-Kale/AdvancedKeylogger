@@ -5,7 +5,8 @@ Build a keylogger in python which performs the following:
 3. Gathers network information
 4. Gets the clipboard contents
 5. Records the user's microphone
-6. Takes screenshots of the computer screen
+6. Takes screenshots of the computer screen 
+
 Encrypt all of these files, send them through email and delete original files from user's computer.
 
 **Disclaimer**
