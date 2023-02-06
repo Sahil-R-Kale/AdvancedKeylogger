@@ -29,5 +29,8 @@ This project has been built only for academic purposes. Strict consent is a must
 8. Cryptography: cryptography.fernet 
 
 
+**Work Breakdown Structure**
 
+
+<img align='center'>![crypt](https://user-images.githubusercontent.com/106017337/216979598-49477750-2631-4603-9fc1-dcbd6b5128ee.jpg)</img>
 
