@@ -15,7 +15,7 @@ This project has been built only for academic purposes. Strict consent is a must
 
 **Project Workflow**
 
-<img align='center'>![Capture](https://user-images.githubusercontent.com/106017337/216836289-c9f4825a-cddf-4e50-841b-c8c75b83383d.JPG)</img>
+![Capture](https://user-images.githubusercontent.com/106017337/216836289-c9f4825a-cddf-4e50-841b-c8c75b83383d.JPG)
 
 
 **Libraries Used**
@@ -33,5 +33,5 @@ This project has been built only for academic purposes. Strict consent is a must
 **Work Breakdown Structure**
 
 
-<img align='center'>![crypt](https://user-images.githubusercontent.com/106017337/216979598-49477750-2631-4603-9fc1-dcbd6b5128ee.jpg)</img>
+![crypt](https://user-images.githubusercontent.com/106017337/216979598-49477750-2631-4603-9fc1-dcbd6b5128ee.jpg)
 
